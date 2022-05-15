@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable-v24/ic_about.xml" value="0.1" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.10677083333333333" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/buttons_background.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/header_background.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_check.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_launcher_background.xml" value="0.10677083333333333" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_lock.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_logout.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_mail.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_myfeed.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_notifications.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_number.xml" value="0.1" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_person.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_phone.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_share.xml" value="0.1" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/ic_star.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/navigation_selector.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/drawable/navigation_view_item_selector.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/activity_category_selected.xml" value="0.18584070796460178" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/activity_donor_registration.xml" value="0.1" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/activity_notification.xml" value="0.209375" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/activity_recipient_registration.xml" value="0.209375" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/activity_select_registration.xml" value="0.16" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/activity_sent_email.xml" value="0.209375" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/activity_splash_screen.xml" value="0.209375" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/header.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/notification_item.xml" value="0.1" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/output_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/layout/user_displayed_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/menu/main_menu.xml" value="0.19270833333333334" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/Hamza/AndroidStudioProjects/DBA/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.11614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "190484354870",
+    "firebase_url": "https://bda-base-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bda-base",
+    "storage_bucket": "bda-base.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190484354870:android:6dbd59505ac6172d7f8597",
+        "android_client_info": {
+          "package_name": "com.AndPro.dba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190484354870-rtamqlbv3c7sjum2kbonnrl07gf4rj19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1k3h7JMO955b_4IcZZYuUZnOnv-9vo_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190484354870-rtamqlbv3c7sjum2kbonnrl07gf4rj19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
