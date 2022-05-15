@@ -21,7 +21,7 @@ import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//this class display users by blood category
 public class CategorySelectedActivity extends AppCompatActivity {
 
     private Toolbar toolbar;
@@ -31,6 +31,7 @@ public class CategorySelectedActivity extends AppCompatActivity {
     private UserAdapter userAdapter;
 
     String title="";
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -66,6 +67,7 @@ public class CategorySelectedActivity extends AppCompatActivity {
         }
     }
 
+    //getting users who compatible with the logged user
     private void getCompatibleUsers() {
         DatabaseReference ref = FirebaseDatabase.getInstance().getReference().child("users")
                 .child(FirebaseAuth.getInstance().getCurrentUser().getUid());
@@ -108,6 +110,8 @@ public class CategorySelectedActivity extends AppCompatActivity {
         });
     }
 
+
+    //this method get users by type
     private void readUsers() {
         DatabaseReference ref = FirebaseDatabase.getInstance().getReference().child("users")
                 .child(FirebaseAuth.getInstance().getCurrentUser().getUid());

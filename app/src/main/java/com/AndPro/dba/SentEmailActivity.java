@@ -20,7 +20,7 @@ import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//in this class all sent emails to a connected user "donor" are displayed
 public class SentEmailActivity extends AppCompatActivity {
     private Toolbar toolbar;
     private RecyclerView recyclerView;
